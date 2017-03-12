@@ -17,8 +17,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0.BusinessLogic", "3.0.Bu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.0.SolutionItem", "7.0.SolutionItem", "{1E38D71C-FFA3-4880-9FFA-CC88E115F062}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTonglBin", "WebTonglBin\WebTonglBin.csproj", "{590E2943-D64E-45A7-8FE3-32C647CEEF74}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590E2943-D64E-45A7-8FE3-32C647CEEF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590E2943-D64E-45A7-8FE3-32C647CEEF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590E2943-D64E-45A7-8FE3-32C647CEEF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590E2943-D64E-45A7-8FE3-32C647CEEF74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{590E2943-D64E-45A7-8FE3-32C647CEEF74} = {82D6F9B9-5E8B-4C14-AE3A-4B41F355AF23}
 	EndGlobalSection
 EndGlobal

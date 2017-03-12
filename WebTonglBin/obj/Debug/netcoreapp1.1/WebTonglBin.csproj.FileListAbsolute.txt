@@ -1,9 +1,0 @@
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\WebTonglBin\bin\Debug\netcoreapp1.1\WebTonglBin.deps.json
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\WebTonglBin\bin\Debug\netcoreapp1.1\WebTonglBin.runtimeconfig.json
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\WebTonglBin\bin\Debug\netcoreapp1.1\WebTonglBin.runtimeconfig.dev.json
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\WebTonglBin\bin\Debug\netcoreapp1.1\WebTonglBin.dll
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\WebTonglBin\bin\Debug\netcoreapp1.1\WebTonglBin.pdb
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\WebTonglBin\obj\Debug\netcoreapp1.1\WebTonglBin.csprojResolveAssemblyReference.cache
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\WebTonglBin\obj\Debug\netcoreapp1.1\WebTonglBin.AssemblyInfo.cs
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\WebTonglBin\obj\Debug\netcoreapp1.1\WebTonglBin.dll
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\WebTonglBin\obj\Debug\netcoreapp1.1\WebTonglBin.pdb

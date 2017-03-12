@@ -22,10 +22,5 @@
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Views\Home\" />
-    <Folder Include="Views\Shared\" />
-  </ItemGroup>
 
 </Project>

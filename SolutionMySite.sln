@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0.Presentation", "1.0.Presentation", "{82D6F9B9-5E8B-4C14-AE3A-4B41F355AF23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.0.Service", "2.0.Service", "{883F8C48-57A5-402E-90AE-32EF2C98D6AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0.DataAccess", "4.0.DataAccess", "{46A40990-9CCC-4864-BB43-FDFC306EBFBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.0.DataTransportObject", "6.0.DataTransportObject", "{B9A4E1A7-576A-4B03-90C3-44AD0CC53585}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.0.ObjectModel", "5.0.ObjectModel", "{E96A1ACD-E37B-418F-8D7C-0ADD426E3842}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0.BusinessLogic", "3.0.BusinessLogic", "{7C1B7344-C588-4D28-838D-313AC6ABF430}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.0.SolutionItem", "7.0.SolutionItem", "{1E38D71C-FFA3-4880-9FFA-CC88E115F062}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\bin\Debug\TonglBin.IService.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\bin\Debug\TonglBin.IService.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\obj\Debug\TonglBin.IService.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\obj\Debug\TonglBin.IService.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\obj\Debug\TonglBin.IService.csprojResolveAssemblyReference.cache

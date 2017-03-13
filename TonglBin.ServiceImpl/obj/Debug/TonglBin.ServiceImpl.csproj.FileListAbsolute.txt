@@ -1,0 +1,7 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\obj\Debug\TonglBin.ServiceImpl.csprojResolveAssemblyReference.cache
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.ServiceImpl.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.ServiceImpl.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.IService.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.IService.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\obj\Debug\TonglBin.ServiceImpl.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\obj\Debug\TonglBin.ServiceImpl.pdb

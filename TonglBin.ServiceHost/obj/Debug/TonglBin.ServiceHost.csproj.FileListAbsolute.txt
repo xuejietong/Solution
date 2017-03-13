@@ -1,0 +1,10 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.ServiceHost.exe.config
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.ServiceHost.exe
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.ServiceHost.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.IService.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.ServiceImpl.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.IService.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.ServiceImpl.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\obj\Debug\TonglBin.ServiceHost.csprojResolveAssemblyReference.cache
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\obj\Debug\TonglBin.ServiceHost.exe
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\obj\Debug\TonglBin.ServiceHost.pdb

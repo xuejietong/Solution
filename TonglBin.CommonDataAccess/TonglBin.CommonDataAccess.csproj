@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{83676443-F28D-4594-9861-8D629B4ED6A2}</ProjectGuid>
+    <ProjectGuid>{33D4B1BB-D23A-42DD-93B6-711974A1922B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TonglBin.ServiceImpl</RootNamespace>
-    <AssemblyName>TonglBin.ServiceImpl</AssemblyName>
+    <RootNamespace>TonglBin.CommonDataAccess</RootNamespace>
+    <AssemblyName>TonglBin.CommonDataAccess</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Dapper, Version=1.50.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.50.2\lib\net451\Dapper.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -40,18 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CommonService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TonglBin.Business\TonglBin.Business.csproj">
-      <Project>{4c9b5a25-4648-4f73-949d-6f42d72f5c14}</Project>
-      <Name>TonglBin.Business</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TonglBin.IService\TonglBin.IService.csproj">
-      <Project>{7006202d-a1ec-4b58-8992-f7e7e4f74977}</Project>
-      <Name>TonglBin.IService</Name>
-    </ProjectReference>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TonglBin.IService;
+using TonglBin.Business;
 
 namespace TonglBin.ServiceImpl
 {
@@ -12,6 +13,12 @@ namespace TonglBin.ServiceImpl
         public String GetData(int value)
         {
             return value.ToString() + ".";
+        }
+
+        public Int32 InserTest()
+        {
+            CommonBusiness cb = new CommonBusiness();
+            return cb.InsertTest();
         }
     }
 }

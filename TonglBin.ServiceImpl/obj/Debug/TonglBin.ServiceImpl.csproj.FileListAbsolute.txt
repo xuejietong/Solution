@@ -1,7 +1,15 @@
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\obj\Debug\TonglBin.ServiceImpl.csprojResolveAssemblyReference.cache
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.ServiceImpl.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.ServiceImpl.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.Business.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.IService.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.ICommonDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.CommonDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\Dapper.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.Business.pdb
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.IService.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.ICommonDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\TonglBin.CommonDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\bin\Debug\Dapper.xml
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\obj\Debug\TonglBin.ServiceImpl.csprojResolveAssemblyReference.cache
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\obj\Debug\TonglBin.ServiceImpl.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceImpl\obj\Debug\TonglBin.ServiceImpl.pdb

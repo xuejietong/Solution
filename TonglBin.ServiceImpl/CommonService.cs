@@ -17,8 +17,8 @@ namespace TonglBin.ServiceImpl
 
         public Int32 InserTest()
         {
-            CommonBusiness cb = new CommonBusiness();
-            return cb.InsertTest();
+            CommonBusiness comBusiness = new CommonBusiness();
+            return comBusiness.InsertTest();
         }
     }
 }

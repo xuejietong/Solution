@@ -31,7 +31,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Log4net", "Log4net", "{7088
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Autofac", "Autofac", "{A89189C6-9F62-4995-9006-E04AF9271879}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonglBin.CommonDataAccess", "TonglBin.CommonDataAccess\TonglBin.CommonDataAccess.csproj", "{33D4B1BB-D23A-42DD-93B6-711974A1922B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonglBin.DataAccess", "TonglBin.CommonDataAccess\TonglBin.DataAccess.csproj", "{33D4B1BB-D23A-42DD-93B6-711974A1922B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redis", "Redis", "{BDDE0BA6-F9D7-4F25-8D88-0E27A3FB7FF3}"
 EndProject
@@ -45,7 +45,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonglBin.CommonTools", "Ton
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonglBin.Business", "TonglBin.Business\TonglBin.Business.csproj", "{4C9B5A25-4648-4F73-949D-6F42D72F5C14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonglBin.ICommonDataAccess", "TonglBin.ICommonDataAccess\TonglBin.ICommonDataAccess.csproj", "{2C7281EC-2C73-461B-A69F-9BDE342EEA27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonglBin.IDataAccess", "TonglBin.ICommonDataAccess\TonglBin.IDataAccess.csproj", "{2C7281EC-2C73-461B-A69F-9BDE342EEA27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -11,7 +11,7 @@ namespace TonglBin.Web.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Msg = CommonServiceAction.GetData(1);
+            ViewBag.Msg = CommonServiceAction.InserTest();
             return View();
         }
 

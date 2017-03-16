@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TonglBin.ICommonDataAccess
+namespace TonglBin.IDataAccess
 {
     public interface ICommonDataAccess
     {
-
+        Int32 InserTest();
     }
 }

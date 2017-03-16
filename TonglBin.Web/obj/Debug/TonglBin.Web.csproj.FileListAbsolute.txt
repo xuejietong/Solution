@@ -43,3 +43,4 @@ F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\zh-Hans\S
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\obj\Debug\TonglBin.Web.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\obj\Debug\TonglBin.Web.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\obj\Debug\TonglBin.Web.csprojResolveAssemblyReference.cache

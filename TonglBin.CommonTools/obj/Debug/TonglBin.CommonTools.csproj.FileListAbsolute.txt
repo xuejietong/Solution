@@ -1,0 +1,11 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\TonglBin.CommonTools.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\TonglBin.CommonTools.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\Autofac.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\EPPlus.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\log4net.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\Autofac.xml
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\EPPlus.xml
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\log4net.xml
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\obj\Debug\TonglBin.CommonTools.csprojResolveAssemblyReference.cache
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\obj\Debug\TonglBin.CommonTools.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\obj\Debug\TonglBin.CommonTools.pdb

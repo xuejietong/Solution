@@ -12,5 +12,8 @@ namespace TonglBin.IService
     {
         [OperationContract]
         String GetData(int value);
+
+        [OperationContract]
+        Int32 InserTest();
     }
 }

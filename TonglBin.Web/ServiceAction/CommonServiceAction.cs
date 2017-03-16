@@ -16,5 +16,13 @@ namespace TonglBin.Web.ServiceAction
                 return csc.GetData(value);
             }
         }
+
+        public static Int32 InserTest()
+        {
+            using (CommonServiceClient comServiceClient = new CommonServiceClient())
+            {
+                return comServiceClient.InserTest();
+            }
+        }
     }
 }

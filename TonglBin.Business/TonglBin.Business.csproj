@@ -43,5 +43,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CommonBusiness.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TonglBin.CommonDataAccess\TonglBin.DataAccess.csproj">
+      <Project>{33d4b1bb-d23a-42dd-93b6-711974a1922b}</Project>
+      <Name>TonglBin.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TonglBin.ICommonDataAccess\TonglBin.IDataAccess.csproj">
+      <Project>{2c7281ec-2c73-461b-a69f-9bde342eea27}</Project>
+      <Name>TonglBin.IDataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

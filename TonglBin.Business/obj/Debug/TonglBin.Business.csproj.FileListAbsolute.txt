@@ -1,5 +1,11 @@
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\bin\Debug\TonglBin.Business.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\bin\Debug\TonglBin.Business.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\bin\Debug\TonglBin.CommonDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\bin\Debug\TonglBin.ICommonDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\bin\Debug\Dapper.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\bin\Debug\TonglBin.CommonDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\bin\Debug\TonglBin.ICommonDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\bin\Debug\Dapper.xml
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\obj\Debug\TonglBin.Business.csprojResolveAssemblyReference.cache
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\obj\Debug\TonglBin.Business.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Business\obj\Debug\TonglBin.Business.pdb

@@ -8,3 +8,11 @@ F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\D
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\obj\Debug\TonglBin.ServiceHost.csprojResolveAssemblyReference.cache
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\obj\Debug\TonglBin.ServiceHost.exe
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\obj\Debug\TonglBin.ServiceHost.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.Business.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.ICommonDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.CommonDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\Dapper.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.Business.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.ICommonDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.CommonDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\Dapper.xml

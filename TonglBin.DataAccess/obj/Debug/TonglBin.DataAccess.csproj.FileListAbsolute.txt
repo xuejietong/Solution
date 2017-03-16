@@ -7,3 +7,12 @@ F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonDataAccess\
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonDataAccess\obj\Debug\TonglBin.DataAccess.csprojResolveAssemblyReference.cache
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonDataAccess\obj\Debug\TonglBin.CommonDataAccess.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonDataAccess\obj\Debug\TonglBin.CommonDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataAccess\bin\Debug\TonglBin.CommonDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataAccess\bin\Debug\TonglBin.CommonDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataAccess\bin\Debug\Dapper.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataAccess\bin\Debug\TonglBin.ICommonDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataAccess\bin\Debug\TonglBin.ICommonDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataAccess\bin\Debug\Dapper.xml
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataAccess\obj\Debug\TonglBin.DataAccess.csprojResolveAssemblyReference.cache
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataAccess\obj\Debug\TonglBin.CommonDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataAccess\obj\Debug\TonglBin.CommonDataAccess.pdb

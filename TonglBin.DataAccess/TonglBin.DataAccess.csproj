@@ -50,7 +50,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TonglBin.ICommonDataAccess\TonglBin.IDataAccess.csproj">
+    <ProjectReference Include="..\TonglBin.IDataAccess\TonglBin.IDataAccess.csproj">
       <Project>{2c7281ec-2c73-461b-a69f-9bde342eea27}</Project>
       <Name>TonglBin.IDataAccess</Name>
     </ProjectReference>

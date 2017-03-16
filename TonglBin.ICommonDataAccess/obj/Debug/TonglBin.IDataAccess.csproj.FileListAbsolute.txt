@@ -1,4 +1,0 @@
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ICommonDataAccess\bin\Debug\TonglBin.ICommonDataAccess.dll
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ICommonDataAccess\bin\Debug\TonglBin.ICommonDataAccess.pdb
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ICommonDataAccess\obj\Debug\TonglBin.ICommonDataAccess.dll
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ICommonDataAccess\obj\Debug\TonglBin.ICommonDataAccess.pdb

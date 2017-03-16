@@ -16,7 +16,7 @@ namespace TonglBin.DataAccess
         {
             IDbConnection connection = new SqlConnection("Data Source=.;Initial Catalog=DbTonglBin;Integrated Security=True;MultipleActiveResultSets=True");
             string sql = "Insert into Users values (@UserName, @Email, @Address)";
-            var user = new { UserName = "Xuejie,Tong", Email = "tongxuejie@qq.com", Address = "北京" };
+            var user = new { UserName = "Xuejie,Tong", Email = "xuejietong@gmail.com", Address = "北京" };
             Int32 result = connection.Execute(sql, user);
             return result;
         }

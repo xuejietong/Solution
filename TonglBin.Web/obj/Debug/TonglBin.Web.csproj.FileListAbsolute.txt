@@ -19,7 +19,9 @@ F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\System.We
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\System.Web.WebPages.Deployment.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\System.Web.WebPages.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\System.Web.WebPages.Razor.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\TonglBin.Model.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\WebGrease.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\TonglBin.Model.pdb
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\System.Web.Helpers.xml
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\System.Web.Mvc.xml
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\System.Web.Optimization.xml
@@ -41,6 +43,6 @@ F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\zh-Hans\S
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\obj\Debug\TonglBin.Web.csprojResolveAssemblyReference.cache
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\obj\Debug\TonglBin.Web.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\obj\Debug\TonglBin.Web.pdb
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Web\obj\Debug\TonglBin.Web.csprojResolveAssemblyReference.cache

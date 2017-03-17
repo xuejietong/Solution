@@ -52,6 +52,10 @@
       <Project>{7006202d-a1ec-4b58-8992-f7e7e4f74977}</Project>
       <Name>TonglBin.IService</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TonglBin.Model\TonglBin.Model.csproj">
+      <Project>{aa4221f9-d5ed-4aed-9744-286e3543b1f5}</Project>
+      <Name>TonglBin.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

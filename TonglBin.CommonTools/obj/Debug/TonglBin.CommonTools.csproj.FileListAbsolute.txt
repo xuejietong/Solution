@@ -6,6 +6,5 @@ F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\D
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\Autofac.xml
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\EPPlus.xml
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\bin\Debug\log4net.xml
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\obj\Debug\TonglBin.CommonTools.csprojResolveAssemblyReference.cache
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\obj\Debug\TonglBin.CommonTools.dll
 F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.CommonTools\obj\Debug\TonglBin.CommonTools.pdb

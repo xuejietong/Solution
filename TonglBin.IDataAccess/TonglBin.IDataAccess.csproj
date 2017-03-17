@@ -7,8 +7,8 @@
     <ProjectGuid>{2C7281EC-2C73-461B-A69F-9BDE342EEA27}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TonglBin.ICommonDataAccess</RootNamespace>
-    <AssemblyName>TonglBin.ICommonDataAccess</AssemblyName>
+    <RootNamespace>TonglBin.IDataAccess</RootNamespace>
+    <AssemblyName>TonglBin.IDataAccess</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -42,6 +42,12 @@
   <ItemGroup>
     <Compile Include="ICommonDataAccess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TonglBin.Model\TonglBin.Model.csproj">
+      <Project>{aa4221f9-d5ed-4aed-9744-286e3543b1f5}</Project>
+      <Name>TonglBin.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

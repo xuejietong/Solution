@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.ServiceModel;
 using TonglBin.Web.CommonServiceReference;
+using TonglBin.Model;
 
 namespace TonglBin.Web.ServiceAction
 {
@@ -17,11 +18,11 @@ namespace TonglBin.Web.ServiceAction
             }
         }
 
-        public static Int32 InserTest()
+        public static Int32 InserTest(Users user)
         {
             using (CommonServiceClient comServiceClient = new CommonServiceClient())
             {
-                return comServiceClient.InserTest();
+                return comServiceClient.InserTest(user);
             }
         }
     }

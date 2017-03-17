@@ -22,10 +22,10 @@ namespace TonglBin.Web.CommonServiceReference {
         System.Threading.Tasks.Task<string> GetDataAsync(int value);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/InserTest", ReplyAction="http://tempuri.org/ICommonService/InserTestResponse")]
-        int InserTest();
+        int InserTest(TonglBin.Model.Users user);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/InserTest", ReplyAction="http://tempuri.org/ICommonService/InserTestResponse")]
-        System.Threading.Tasks.Task<int> InserTestAsync();
+        System.Threading.Tasks.Task<int> InserTestAsync(TonglBin.Model.Users user);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -63,12 +63,12 @@ namespace TonglBin.Web.CommonServiceReference {
             return base.Channel.GetDataAsync(value);
         }
         
-        public int InserTest() {
-            return base.Channel.InserTest();
+        public int InserTest(TonglBin.Model.Users user) {
+            return base.Channel.InserTest(user);
         }
         
-        public System.Threading.Tasks.Task<int> InserTestAsync() {
-            return base.Channel.InserTestAsync();
+        public System.Threading.Tasks.Task<int> InserTestAsync(TonglBin.Model.Users user) {
+            return base.Channel.InserTestAsync(user);
         }
     }
 }

@@ -1,0 +1,13 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\TonglBin.UnitTest.exe.config
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\TonglBin.UnitTest.exe
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\TonglBin.UnitTest.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\TonglBin.DataTools.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\TonglBin.Model.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\Dapper.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\TonglBin.DataTools.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\TonglBin.DataTools.dll.config
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\TonglBin.Model.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\bin\Debug\Dapper.xml
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\obj\Debug\TonglBin.UnitTest.csprojResolveAssemblyReference.cache
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\obj\Debug\TonglBin.UnitTest.exe
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.UnitTest\obj\Debug\TonglBin.UnitTest.pdb

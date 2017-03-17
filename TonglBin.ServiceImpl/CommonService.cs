@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TonglBin.IService;
 using TonglBin.Business;
+using TonglBin.Model;
 
 namespace TonglBin.ServiceImpl
 {
@@ -15,10 +16,10 @@ namespace TonglBin.ServiceImpl
             return value.ToString() + ".";
         }
 
-        public Int32 InserTest()
+        public Int32 InserTest(Users user)
         {
             CommonBusiness comBusiness = new CommonBusiness();
-            return comBusiness.InsertTest();
+            return comBusiness.InsertTest(user);
         }
     }
 }

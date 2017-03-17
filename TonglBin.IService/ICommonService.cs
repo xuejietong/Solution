@@ -4,6 +4,7 @@ using System.Linq;
 using System.ServiceModel;
 using System.Text;
 using System.Threading.Tasks;
+using TonglBin.Model;
 
 namespace TonglBin.IService
 {
@@ -14,6 +15,6 @@ namespace TonglBin.IService
         String GetData(int value);
 
         [OperationContract]
-        Int32 InserTest();
+        Int32 InserTest(Users user);
     }
 }

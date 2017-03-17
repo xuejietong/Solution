@@ -4,21 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TonglBin.IDataAccess;
-using Dapper;
 using System.Data;
 using System.Data.SqlClient;
+using TonglBin.DataTools;
+using TonglBin.Model;
 
 namespace TonglBin.DataAccess
 {
     public class CommonDataAccess : ICommonDataAccess
     {
-        public Int32 InserTest()
+        public Int32 InserTest(Users user)
         {
-            IDbConnection connection = new SqlConnection("Data Source=.;Initial Catalog=DbTonglBin;Integrated Security=True;MultipleActiveResultSets=True");
             string sql = "Insert into Users values (@UserName, @Email, @Address)";
-            var user = new { UserName = "Xuejie,Tong", Email = "xuejietong@gmail.com", Address = "北京" };
-            Int32 result = connection.Execute(sql, user);
-            return result;
+            return DapperDataHelp<Users>.Execute(sql, user);
         }
     }
 }

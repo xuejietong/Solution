@@ -155,6 +155,9 @@
     <None Include="Connected Services\CommonServiceReference\item.disco" />
     <None Include="Connected Services\CommonServiceReference\configuration91.svcinfo" />
     <None Include="Connected Services\CommonServiceReference\configuration.svcinfo" />
+    <None Include="Connected Services\CommonServiceReference\item2.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Connected Services\CommonServiceReference\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
@@ -228,6 +231,12 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadataStorage Include="Connected Services\CommonServiceReference\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TonglBin.Model\TonglBin.Model.csproj">
+      <Project>{aa4221f9-d5ed-4aed-9744-286e3543b1f5}</Project>
+      <Name>TonglBin.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

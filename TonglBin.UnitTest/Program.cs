@@ -12,7 +12,7 @@ namespace TonglBin.UnitTest
     {
         static void Main(string[] args)
         {
-            ////Inser t 
+            ////Insert 
             //List<Users> users = new List<Users>();
             //Users user1 = new Users();
             //user1.UserName = "ZZB1";

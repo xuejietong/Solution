@@ -11,14 +11,15 @@ namespace TonglBin.ServiceImpl
 {
     public class CommonService : ICommonService
     {
-        public String GetData(int value)
+        private CommonBusiness comBusiness = new CommonBusiness();
+
+        public IList<Users> GetUsers()
         {
-            return value.ToString() + ".";
+            return comBusiness.GetUsers();
         }
 
         public Int32 InserTest(Users user)
         {
-            CommonBusiness comBusiness = new CommonBusiness();
             return comBusiness.InsertTest(user);
         }
     }

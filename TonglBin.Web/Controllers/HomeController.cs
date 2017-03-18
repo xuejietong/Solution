@@ -12,11 +12,7 @@ namespace TonglBin.Web.Controllers
     {
         public ActionResult Index()
         {
-            Users user = new Users();
-            user.UserName = "TXJ1";
-            user.Email = "abcd@qq.com";
-            user.Address = "武汉";
-            ViewBag.Msg = CommonServiceAction.InserTest(user);
+            ViewData["Users"] = CommonServiceAction.GetUsers();
             return View();
         }
 

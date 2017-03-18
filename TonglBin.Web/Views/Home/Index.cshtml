@@ -1,5 +1,6 @@
-﻿@{
-    ViewBag.Title = ViewBag.Msg;
+﻿@using TonglBin.Model
+@{
+    IList<Users> users = ViewData["Users"] as IList<Users>;
 }
 
 <div class="jumbotron">
@@ -7,7 +8,15 @@
     <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
     <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
-
+@{ 
+    foreach (var user in users)
+    {
+        <div>@user.UserName</div>
+        <div>@user.Email</div>
+        <div>@user.Address</div>
+        <br />
+    }
+}
 <div class="row">
     <div class="col-md-4">
         <h2>Getting started</h2>

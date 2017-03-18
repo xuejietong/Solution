@@ -96,7 +96,7 @@
       </wsp:All>
     </wsp:ExactlyOne>
   </wsp:Policy>
-  <wsp:Policy wsu:Id="WSHttpBinding_ICommonService_GetData_Input_policy">
+  <wsp:Policy wsu:Id="WSHttpBinding_ICommonService_GetUsers_Input_policy">
     <wsp:ExactlyOne>
       <wsp:All>
         <sp:SignedParts xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
@@ -115,7 +115,7 @@
       </wsp:All>
     </wsp:ExactlyOne>
   </wsp:Policy>
-  <wsp:Policy wsu:Id="WSHttpBinding_ICommonService_GetData_output_policy">
+  <wsp:Policy wsu:Id="WSHttpBinding_ICommonService_GetUsers_output_policy">
     <wsp:ExactlyOne>
       <wsp:All>
         <sp:SignedParts xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
@@ -179,11 +179,11 @@
       <xsd:import schemaLocation="http://localhost:8000/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/TonglBin.Model" />
     </xsd:schema>
   </wsdl:types>
-  <wsdl:message name="ICommonService_GetData_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetData" />
+  <wsdl:message name="ICommonService_GetUsers_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsers" />
   </wsdl:message>
-  <wsdl:message name="ICommonService_GetData_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetDataResponse" />
+  <wsdl:message name="ICommonService_GetUsers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsersResponse" />
   </wsdl:message>
   <wsdl:message name="ICommonService_InserTest_InputMessage">
     <wsdl:part name="parameters" element="tns:InserTest" />
@@ -192,9 +192,9 @@
     <wsdl:part name="parameters" element="tns:InserTestResponse" />
   </wsdl:message>
   <wsdl:portType name="ICommonService">
-    <wsdl:operation name="GetData">
-      <wsdl:input wsaw:Action="http://tempuri.org/ICommonService/GetData" message="tns:ICommonService_GetData_InputMessage" />
-      <wsdl:output wsaw:Action="http://tempuri.org/ICommonService/GetDataResponse" message="tns:ICommonService_GetData_OutputMessage" />
+    <wsdl:operation name="GetUsers">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICommonService/GetUsers" message="tns:ICommonService_GetUsers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICommonService/GetUsersResponse" message="tns:ICommonService_GetUsers_OutputMessage" />
     </wsdl:operation>
     <wsdl:operation name="InserTest">
       <wsdl:input wsaw:Action="http://tempuri.org/ICommonService/InserTest" message="tns:ICommonService_InserTest_InputMessage" />
@@ -204,14 +204,14 @@
   <wsdl:binding name="WSHttpBinding_ICommonService" type="tns:ICommonService">
     <wsp:PolicyReference URI="#WSHttpBinding_ICommonService_policy" />
     <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
-    <wsdl:operation name="GetData">
-      <soap12:operation soapAction="http://tempuri.org/ICommonService/GetData" style="document" />
+    <wsdl:operation name="GetUsers">
+      <soap12:operation soapAction="http://tempuri.org/ICommonService/GetUsers" style="document" />
       <wsdl:input>
-        <wsp:PolicyReference URI="#WSHttpBinding_ICommonService_GetData_Input_policy" />
+        <wsp:PolicyReference URI="#WSHttpBinding_ICommonService_GetUsers_Input_policy" />
         <soap12:body use="literal" />
       </wsdl:input>
       <wsdl:output>
-        <wsp:PolicyReference URI="#WSHttpBinding_ICommonService_GetData_output_policy" />
+        <wsp:PolicyReference URI="#WSHttpBinding_ICommonService_GetUsers_output_policy" />
         <soap12:body use="literal" />
       </wsdl:output>
     </wsdl:operation>

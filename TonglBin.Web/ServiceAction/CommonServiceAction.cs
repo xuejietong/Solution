@@ -10,11 +10,11 @@ namespace TonglBin.Web.ServiceAction
 {
     public abstract class CommonServiceAction
     {
-        public static String GetData(int value)
+        public static IList<Users> GetUsers()
         {
-            using (CommonServiceClient csc=new CommonServiceClient())
+            using (CommonServiceClient comServiceClient = new CommonServiceClient())
             {
-                return csc.GetData(value);
+                return comServiceClient.GetUsers();
             }
         }
 

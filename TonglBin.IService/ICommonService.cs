@@ -12,7 +12,7 @@ namespace TonglBin.IService
     public interface ICommonService
     {
         [OperationContract]
-        String GetData(int value);
+        IList<Users> GetUsers();
 
         [OperationContract]
         Int32 InserTest(Users user);

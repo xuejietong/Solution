@@ -11,6 +11,6 @@ namespace TonglBin.IDataAccess
     {
         Int32 InserTest(Users user);
 
-        List<Users> GetUsers();
+        IList<Users> GetUsers();
     }
 }

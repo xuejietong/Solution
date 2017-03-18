@@ -1,0 +1,9 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.ServiceHost.exe
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.IService.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.ServiceImpl.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.Model.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.Business.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.IDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.DataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\TonglBin.DataTools.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.ServiceHost\bin\Debug\Dapper.dll

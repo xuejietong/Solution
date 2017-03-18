@@ -20,9 +20,9 @@ namespace TonglBin.DataAccess
             return connection.Execute(sql, user);
         }
 
-        public List<Users> GetUsers()
+        public IList<Users> GetUsers()
         {
-            List<Users> t = new List<Users>();
+            IList<Users> t = new List<Users>();
             string sql = "select * from Users";
             var result = connection.Query<Users>(sql);
             if (result.Count() > 0)

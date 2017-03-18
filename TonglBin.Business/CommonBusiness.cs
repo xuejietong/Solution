@@ -11,10 +11,16 @@ namespace TonglBin.Business
 {
     public class CommonBusiness
     {
+        private ICommonDataAccess comDataAccess = new CommonDataAccess();
+
         public Int32 InsertTest(Users user)
         {
-            ICommonDataAccess comDataAccess = new CommonDataAccess();
             return comDataAccess.InserTest(user);
+        }
+
+        public IList<Users> GetUsers()
+        {
+            return comDataAccess.GetUsers();
         }
     }
 }

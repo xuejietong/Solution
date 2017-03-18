@@ -15,11 +15,11 @@ namespace TonglBin.Web.CommonServiceReference {
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="CommonServiceReference.ICommonService")]
     public interface ICommonService {
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/GetData", ReplyAction="http://tempuri.org/ICommonService/GetDataResponse")]
-        string GetData(int value);
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/GetUsers", ReplyAction="http://tempuri.org/ICommonService/GetUsersResponse")]
+        TonglBin.Model.Users[] GetUsers();
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/GetData", ReplyAction="http://tempuri.org/ICommonService/GetDataResponse")]
-        System.Threading.Tasks.Task<string> GetDataAsync(int value);
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/GetUsers", ReplyAction="http://tempuri.org/ICommonService/GetUsersResponse")]
+        System.Threading.Tasks.Task<TonglBin.Model.Users[]> GetUsersAsync();
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/InserTest", ReplyAction="http://tempuri.org/ICommonService/InserTestResponse")]
         int InserTest(TonglBin.Model.Users user);
@@ -55,12 +55,12 @@ namespace TonglBin.Web.CommonServiceReference {
                 base(binding, remoteAddress) {
         }
         
-        public string GetData(int value) {
-            return base.Channel.GetData(value);
+        public TonglBin.Model.Users[] GetUsers() {
+            return base.Channel.GetUsers();
         }
         
-        public System.Threading.Tasks.Task<string> GetDataAsync(int value) {
-            return base.Channel.GetDataAsync(value);
+        public System.Threading.Tasks.Task<TonglBin.Model.Users[]> GetUsersAsync() {
+            return base.Channel.GetUsersAsync();
         }
         
         public int InserTest(TonglBin.Model.Users user) {

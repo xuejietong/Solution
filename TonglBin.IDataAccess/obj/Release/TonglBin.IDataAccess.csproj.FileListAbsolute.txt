@@ -1,0 +1,7 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IDataAccess\bin\Release\TonglBin.IDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IDataAccess\bin\Release\TonglBin.IDataAccess.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IDataAccess\bin\Release\TonglBin.Model.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IDataAccess\bin\Release\TonglBin.Model.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IDataAccess\obj\Release\TonglBin.IDataAccess.csprojResolveAssemblyReference.cache
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IDataAccess\obj\Release\TonglBin.IDataAccess.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IDataAccess\obj\Release\TonglBin.IDataAccess.pdb

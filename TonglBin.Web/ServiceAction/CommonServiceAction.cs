@@ -18,6 +18,14 @@ namespace TonglBin.Web.ServiceAction
             }
         }
 
+        public static IList<Users> GetUsersRemote()
+        {
+            using (RemoteCommonServiceReference.CommonServiceClient comRemoteServiceClient = new RemoteCommonServiceReference.CommonServiceClient())
+            {
+                return comRemoteServiceClient.GetUsers();
+            }
+        }
+
         public static Int32 InserTest(Users user)
         {
             using (CommonServiceClient comServiceClient = new CommonServiceClient())

@@ -1,0 +1,7 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\bin\Release\TonglBin.IService.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\bin\Release\TonglBin.IService.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\bin\Release\TonglBin.Model.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\bin\Release\TonglBin.Model.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\obj\Release\TonglBin.IService.csprojResolveAssemblyReference.cache
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\obj\Release\TonglBin.IService.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.IService\obj\Release\TonglBin.IService.pdb

@@ -12,19 +12,19 @@ namespace TonglBin.Web.CommonServiceReference {
     
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="CommonServiceReference.ICommonService")]
+    [System.ServiceModel.ServiceContractAttribute(Namespace="http://192.168.1.109:8000/", ConfigurationName="CommonServiceReference.ICommonService")]
     public interface ICommonService {
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/GetUsers", ReplyAction="http://tempuri.org/ICommonService/GetUsersResponse")]
+        [System.ServiceModel.OperationContractAttribute(Action="http://192.168.1.109:8000/ICommonService/GetUsers", ReplyAction="http://192.168.1.109:8000/ICommonService/GetUsersResponse")]
         TonglBin.Model.Users[] GetUsers();
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/GetUsers", ReplyAction="http://tempuri.org/ICommonService/GetUsersResponse")]
+        [System.ServiceModel.OperationContractAttribute(Action="http://192.168.1.109:8000/ICommonService/GetUsers", ReplyAction="http://192.168.1.109:8000/ICommonService/GetUsersResponse")]
         System.Threading.Tasks.Task<TonglBin.Model.Users[]> GetUsersAsync();
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/InserTest", ReplyAction="http://tempuri.org/ICommonService/InserTestResponse")]
+        [System.ServiceModel.OperationContractAttribute(Action="http://192.168.1.109:8000/ICommonService/InserTest", ReplyAction="http://192.168.1.109:8000/ICommonService/InserTestResponse")]
         int InserTest(TonglBin.Model.Users user);
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICommonService/InserTest", ReplyAction="http://tempuri.org/ICommonService/InserTestResponse")]
+        [System.ServiceModel.OperationContractAttribute(Action="http://192.168.1.109:8000/ICommonService/InserTest", ReplyAction="http://192.168.1.109:8000/ICommonService/InserTestResponse")]
         System.Threading.Tasks.Task<int> InserTestAsync(TonglBin.Model.Users user);
     }
     

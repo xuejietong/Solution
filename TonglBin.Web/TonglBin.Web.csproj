@@ -143,6 +143,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
+    <Compile Include="Connected Services\RemoteCommonServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -152,13 +157,28 @@
     <Compile Include="ServiceAction\CommonServiceAction.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\CommonServiceReference\item.disco" />
+    <None Include="Connected Services\CommonServiceReference\CommonService.wsdl" />
     <None Include="Connected Services\CommonServiceReference\configuration91.svcinfo" />
     <None Include="Connected Services\CommonServiceReference\configuration.svcinfo" />
+    <None Include="Connected Services\CommonServiceReference\item.wsdl" />
+    <None Include="Connected Services\CommonServiceReference\item.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\CommonServiceReference\item1.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Connected Services\CommonServiceReference\item2.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="Connected Services\CommonServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\CommonServiceReference\item.disco" />
+    <None Include="Connected Services\RemoteCommonServiceReference\item.disco" />
+    <None Include="Connected Services\RemoteCommonServiceReference\configuration91.svcinfo" />
+    <None Include="Connected Services\RemoteCommonServiceReference\configuration.svcinfo" />
+    <None Include="Connected Services\RemoteCommonServiceReference\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
@@ -173,14 +193,17 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Connected Services\CommonServiceReference\CommonService.wsdl" />
-    <None Include="Connected Services\CommonServiceReference\item.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Connected Services\CommonServiceReference\item1.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <Content Include="Properties\DataSources\TonglBin.Model.Users.datasource" />
+    <None Include="Connected Services\RemoteCommonServiceReference\CommonService.wsdl" />
+    <None Include="Connected Services\RemoteCommonServiceReference\item.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\RemoteCommonServiceReference\item1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\RemoteCommonServiceReference\item2.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -232,6 +255,7 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadataStorage Include="Connected Services\CommonServiceReference\" />
+    <WCFMetadataStorage Include="Connected Services\RemoteCommonServiceReference\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TonglBin.Model\TonglBin.Model.csproj">

@@ -8,7 +8,7 @@ using TonglBin.Model;
 
 namespace TonglBin.IService
 {
-    [ServiceContract]
+    [ServiceContract(Namespace = "http://192.168.1.109:8000/")]
     public interface ICommonService
     {
         [OperationContract]

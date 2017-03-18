@@ -1,0 +1,4 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Model\bin\Release\TonglBin.Model.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Model\bin\Release\TonglBin.Model.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Model\obj\Release\TonglBin.Model.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Model\obj\Release\TonglBin.Model.pdb

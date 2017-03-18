@@ -1,0 +1,7 @@
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataTools\bin\Release\TonglBin.DataTools.dll.config
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataTools\bin\Release\TonglBin.DataTools.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataTools\bin\Release\TonglBin.DataTools.pdb
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataTools\bin\Release\Dapper.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataTools\bin\Release\Dapper.xml
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataTools\obj\Release\TonglBin.DataTools.dll
+F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.DataTools\obj\Release\TonglBin.DataTools.pdb

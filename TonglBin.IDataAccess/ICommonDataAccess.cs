@@ -10,5 +10,7 @@ namespace TonglBin.IDataAccess
     public interface ICommonDataAccess
     {
         Int32 InserTest(Users user);
+
+        List<Users> GetUsers();
     }
 }

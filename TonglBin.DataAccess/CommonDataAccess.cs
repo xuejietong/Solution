@@ -8,15 +8,28 @@ using System.Data;
 using System.Data.SqlClient;
 using TonglBin.DataTools;
 using TonglBin.Model;
+using Dapper;
 
 namespace TonglBin.DataAccess
 {
-    public class CommonDataAccess : ICommonDataAccess
+    public class CommonDataAccess : BaseDapper, ICommonDataAccess
     {
         public Int32 InserTest(Users user)
         {
             string sql = "Insert into Users values (@UserName, @Email, @Address)";
-            return DapperDataHelp<Users>.Execute(sql, user);
+            return connection.Execute(sql, user);
+        }
+
+        public List<Users> GetUsers()
+        {
+            List<Users> t = new List<Users>();
+            string sql = "select * from Users";
+            var result = connection.Query<Users>(sql);
+            if (result.Count() > 0)
+            {
+                t = result.ToList<Users>();
+            }
+            return t;
         }
     }
 }

@@ -48,6 +48,10 @@
       <Project>{33d4b1bb-d23a-42dd-93b6-711974a1922b}</Project>
       <Name>TonglBin.DataAccess</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TonglBin.DataTools\TonglBin.DataTools.csproj">
+      <Project>{92edb497-2926-4d8c-99ee-096a88cd7dd5}</Project>
+      <Name>TonglBin.DataTools</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TonglBin.IDataAccess\TonglBin.IDataAccess.csproj">
       <Project>{2c7281ec-2c73-461b-a69f-9bde342eea27}</Project>
       <Name>TonglBin.IDataAccess</Name>

@@ -1,4 +1,0 @@
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Model\bin\Debug\TonglBin.Model.dll
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Model\bin\Debug\TonglBin.Model.pdb
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Model\obj\Debug\TonglBin.Model.dll
-F:\MyProjects\VisualStudio2017Projects\SolutionMySite\TonglBin.Model\obj\Debug\TonglBin.Model.pdb

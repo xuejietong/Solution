@@ -13,7 +13,8 @@ namespace TonglBin.Web.Controllers
         public ActionResult Index()
         {
             ViewData["Users"] = CommonServiceAction.GetUsers();
-            ViewData["UsersRemote"] = CommonServiceAction.GetUsersRemote();
+            //ViewData["UsersRemote"] = CommonServiceAction.GetUsersRemote();
+            ViewData["UsersRemote"] = new List<Users>();
             return View();
         }
 

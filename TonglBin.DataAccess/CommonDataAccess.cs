@@ -23,11 +23,20 @@ namespace TonglBin.DataAccess
         public IList<Users> GetUsers()
         {
             IList<Users> t = new List<Users>();
-            string sql = "select * from Users";
-            var result = connection.Query<Users>(sql);
-            if (result.Count() > 0)
+            if (redisClient.ContainsKey("AllUsers"))
             {
-                t = result.ToList<Users>();
+                t = redisClient.Get<List<Users>>("AllUsers");
+            }
+            else
+            {
+                string sql = "select * from Users";
+                var result = connection.Query<Users>(sql);
+                if (result.Count() > 0)
+                {
+                    t = result.ToList<Users>();
+                    var timeOut = new TimeSpan(0, 0, 20, 0);
+                    redisClient.Add("AllUsers", t, timeOut);
+                }
             }
             return t;
         }

@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using TonglBin.CommonTools;
 using TonglBin.DataTools;
 using TonglBin.Model;
 
@@ -55,8 +56,11 @@ namespace TonglBin.UnitTest
 
             //RedisTest();
 
-            string redisHost = ConfigurationManager.AppSettings["TonglBinRedisConn"];
-            int redisPort = Int32.Parse(ConfigurationManager.AppSettings["TonglBinRedisPort"]);
+            //string redisHost = ConfigurationManager.AppSettings["TonglBinRedisConn"];
+            //int redisPort = Int32.Parse(ConfigurationManager.AppSettings["TonglBinRedisPort"]);
+
+            LogHelper.WriteLog(typeof(Program), "测试Log4Net日志是否写入");
+            Console.ReadLine();
         }
 
         static void RedisTest()

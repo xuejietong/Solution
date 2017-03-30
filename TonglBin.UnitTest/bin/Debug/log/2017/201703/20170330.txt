@@ -1,0 +1,8 @@
+
+ 
+记录时间：2017-03-30 20:22:36,443 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：TonglBin.UnitTest.Program property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 

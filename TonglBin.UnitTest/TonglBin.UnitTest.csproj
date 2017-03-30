@@ -75,6 +75,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\TonglBin.CommonTools\TonglBin.CommonTools.csproj">
+      <Project>{e8173637-706c-4a97-b4d6-6be985c6d867}</Project>
+      <Name>TonglBin.CommonTools</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TonglBin.DataTools\TonglBin.DataTools.csproj">
       <Project>{92edb497-2926-4d8c-99ee-096a88cd7dd5}</Project>
       <Name>TonglBin.DataTools</Name>

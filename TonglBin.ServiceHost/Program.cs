@@ -15,7 +15,10 @@ namespace TonglBin.ServiceHost
             {
                 host.Opened += delegate
                 {
-                    Console.WriteLine("Service is running.");
+                    foreach (var endpoint in host.Description.Endpoints)
+                    {
+                        Console.WriteLine(DateTime.Now.ToString() + " Service is running at " + endpoint.Address);
+                    }
                 };
                 host.Open();
                 Console.ReadKey();

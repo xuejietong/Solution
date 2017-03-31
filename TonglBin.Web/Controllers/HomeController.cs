@@ -15,7 +15,7 @@ namespace TonglBin.Web.Controllers
             //ViewData["Users"] = CommonServiceAction.GetUsers();
             //ViewData["UsersRemote"] = CommonServiceAction.GetUsersRemote();
 
-            ViewData["Users"]= new List<Users>();
+            ViewData["Users"] = new List<Users>();
             ViewData["UsersRemote"] = new List<Users>();
 
             logger.Debug("用Log4Net写入数据库日志");
@@ -34,6 +34,8 @@ namespace TonglBin.Web.Controllers
 
         public ActionResult Contact()
         {
+            int a = 0;
+            int num = 1 / a;
             ViewBag.Message = "Your contact page.";
 
             return View();
